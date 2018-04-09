@@ -85,6 +85,7 @@ class ViewController: UIViewController {
                 difference = difference + self.todayTime
             }
             
+            
             let formatter = DateFormatter()
             formatter.dateFormat = "yyyy-MM-dd"
             
